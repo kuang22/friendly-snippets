@@ -76,6 +76,13 @@
     ],
     "description": "Display Math"
   },
+  "KK Math Inline":{
+    "prefix" : "$",
+    "body":[
+      "\\$ $1 $$0"
+    ],
+    "desciption": "Insert inline Math"
+  },
   "Theorem": {
     "prefix": "theorem",
     "body": [

@@ -1,0 +1,12 @@
+{
+  "TIFS": {
+    "prefix": "tifs",
+    "body": ["{IEEE} Trans. Inf. Forensics Secur."],
+    "description": "IEEE Transactions on Information Forensics and Security"
+  },
+  "TASLP": {
+    "prefix": "taslp",
+    "body": ["{IEEE} {ACM} Trans. Audio Speech Lang. Process."],
+    "description": "IEEE/ACM Transactions on Audio, Speech, and Language Processing"
+  }
+}

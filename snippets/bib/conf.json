@@ -1,0 +1,127 @@
+{
+  "SP": {
+    "prefix": "sp",
+    "body": ["Proceedings of {IEEE} S\\&P"],
+    "description": "IEEE Symposium on Security and Privacy"
+  },
+  "CCS": {
+    "prefix": "ccs",
+    "body": ["Proceedings of {ACM} {SIGSAC} {CCS}"],
+    "description": "ACM Conference on Computer and Communications Security"
+  },
+  "NDSS": {
+    "prefix": "ndss",
+    "body": ["Proceedings of {ISOC} {NDSS}"],
+    "description": "ISOC Network and Distributed System Security Symposium"
+  },
+  "Usenix": {
+    "prefix": "usenix",
+    "body": ["Proceedings of {USENIX} Security"],
+    "description": "Usenix Security Symposium"
+  },
+  "ICASSP": {
+    "prefix": "icassp",
+    "body": ["Proceedings of {IEEE} {ICASSP}"],
+    "description": "IEEE International Conference on Acoustics, Speech and Signal Processing"
+  },
+  "Interspeech": {
+    "prefix": "interspeech",
+    "body": ["Proceedings of {ISCA} {INTERSPEECH}"],
+    "description": "Conference of the International Speech Communication Association"
+  },
+  "SIGCOMM": {
+    "prefix": "sigcomm",
+    "body": ["Proceedings of {ACM} {SIGCOMM}"],
+    "description": "ACM International Conference on Applications, Technologies, Architectures, and Protocols for Computer Communication"
+  },
+  "MobiCom": {
+    "prefix": "mobicom",
+    "body": ["Proceedings of {ACM} MobiCom"],
+    "description": "ACM International Conference on Mobile Computing and Networking"
+  },
+  "INFOCOM": {
+    "prefix": "infocom",
+    "body": ["Proceedings of {IEEE} {INFOCOM}"],
+    "description": "IEEE International Conference on Computer Communications"
+  },
+  "NSDI": {
+    "prefix": "nsdi",
+    "body": ["Proceedings of {USENIX} {NSDI}"],
+    "description": "Symposium on Network System Design and Implementation"
+  },
+  "SenSys": {
+    "prefix": "sensys",
+    "body": ["Proceedings of {ACM} SenSys"],
+    "description": "ACM Conference on Embedded Networked Sensor Systems"
+  },
+  "MobiSys": {
+    "prefix": "mobisys",
+    "body": ["Proceedings of {ACM} MobiSys"],
+    "description": "International Conference on Mobile Systems, Applications, and Services"
+  },
+  "MobiHoc": {
+    "prefix": "mobihoc",
+    "body": ["Proceedings of ACM/IEEE MobiHoc"],
+    "description": "International Symposium on Mobile Ad Hoc Networking and Computing"
+  },
+  "IPSN": {
+    "prefix": "ipsn",
+    "body": ["Proceedings of IEEE/ACM {IPSN}"],
+    "description": "International Conference on Information Processing in Sensor Networks"
+  },
+  "IWQoS": {
+    "prefix": "iwqos",
+    "body": ["Proceedings of {IEEE} IWQoS"],
+    "description": "International Workshop on Quality of Service"
+  },
+  "ICLR": {
+    "prefix": "iclr",
+    "body": ["Proceedings of {ICLR}"],
+    "description": "International Conference on Learning Representations"
+  },
+  "ASRU": {
+    "prefix": "asru",
+    "body": ["Proceedings of {IEEE} {ASRU}"],
+    "description": "IEEE Automatic Speech Recognition and Understanding Workshop"
+  },
+  "NIPS": {
+    "prefix": "nips",
+    "body": ["Proceedings of {MIT} Press NeurIPS"],
+    "description": "Annual Conference on Neural Information Processing Systems"
+  },
+  "ICML": {
+    "prefix": "icml",
+    "body": ["Proceedings of {ACM} {ICML}"],
+    "description": "International Conference on Machine Learning"
+  },
+  "CVPR": {
+    "prefix": "cvpr",
+    "body": ["Proceedings of {IEEE} CVPR"],
+    "description": "IEEE Conference on Computer Vision and Pattern Recognition"
+  },
+  "AAAI": {
+    "prefix": "aaai",
+    "body": ["Proceedings of {AAAI} {AAAI}"],
+    "description": "AAAI Conference on Artificial Intelligence"
+  },
+  "AsiaCCS": {
+    "prefix": "asiaccs",
+    "body": ["Proceedings of {ACM} AsiaCCS"],
+    "description": "Asia Conference on Computer and Communications Security"
+  },
+  "EuroSP": {
+    "prefix": "eurosp",
+    "body": ["Proceedings of {IEEE} EuroS\\&P"],
+    "description": "IEEE European symposium on security and privacy"
+  },
+  "Odyssey": {
+    "prefix": "odyssey",
+    "body": ["Proceedings of {ISCA} Odyssey"],
+    "description": "ISCA The Speaker and Language Recognition Workshop"
+  },
+  "ICME": {
+    "prefix": "icme",
+    "body": ["Proceedings of {IEEE} {ICME}"],
+    "description": "IEEE International Conference on Multimedia & Expo"
+  }
+}

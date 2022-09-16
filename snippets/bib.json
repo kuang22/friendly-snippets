@@ -1,7 +1,0 @@
-{
-  "addr": {
-    "prefix": "addr",
-    "body": ["address = {${1:Address Text}},$0"],
-    "description": "address line in bib file"
-  }
-}

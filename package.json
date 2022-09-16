@@ -18,7 +18,15 @@
       },
       {
         "language": "bib",
-        "path": "./snippets/bib.json"
+        "path": "./snippets/bib/bib.json"
+      },
+      {
+        "language": "bib",
+        "path": "./snippets/bib/conf.json"
+      },
+      {
+        "language": "bib",
+        "path": "./snippets/bib/journal.json"
       },
       {
         "language": "c",
